@@ -2,9 +2,8 @@
 //  main.m
 //  HealthKit
 //
-//  Created by Oleg Gnidets on 8/18/14.
-//  Copyright (c) 2014 SoftServe. All rights reserved.
-//
+//  Created by Alejandro Luengo on 30/09/14.
+//  (c) 2014 Intelygenz
 
 #import <UIKit/UIKit.h>
 
